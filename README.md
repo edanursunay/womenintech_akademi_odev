@@ -81,5 +81,5 @@ Bugüne kadar yapılan ödevlerin olduğu repo'dur.
 </summary>
 
   [code](https://github.com/edanursunay/womenintech_akademi_odev/blob/main/all_data.py)
-  ![gif](https://media.giphy.com/media/ssTVsNFOBHNAc/giphy.gif)
+  ![gif](https://media.giphy.com/media/20JZ5nyCZZoXvc2EcG/giphy.gif)
 </details>
