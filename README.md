@@ -5,7 +5,7 @@ Bugüne kadar yapılan ödevlerin olduğu repo'dur.
 <summary>
 
 ### Stars
-
+Döngüler ile yıldız yazdırdık.
 
 </summary>
 
@@ -17,6 +17,7 @@ Bugüne kadar yapılan ödevlerin olduğu repo'dur.
 <summary>
 
 ###  Guess Number
+Random modülü ile fonksiyon tanımlayarak döngüleri ve kontrol yapılarını kullandık.
 
 </summary>
 
@@ -28,7 +29,7 @@ Bugüne kadar yapılan ödevlerin olduğu repo'dur.
 <summary>
 
 ###  Computer Guess Number
-
+Random modülünden randint metodu ile fonksiyon tanımlayarak döngüleri ve kontrol yapılarını kullandık.
 </summary>
   
   [code](https://github.com/edanursunay/womenintech_akademi_odev/blob/main/ComputerGuessNumber.py)
@@ -40,7 +41,7 @@ Bugüne kadar yapılan ödevlerin olduğu repo'dur.
 <summary>
 
 ###  Rock Paper Scissors
-
+Random modülü ile fonksiyon, döngüler ve kontrol yapıları kullanarak yazılan oyun.
 </summary>
 
   [code](https://github.com/edanursunay/womenintech_akademi_odev/blob/main/RockPaperScissors.py)
@@ -51,7 +52,7 @@ Bugüne kadar yapılan ödevlerin olduğu repo'dur.
 <summary>
 
 ### 7-About Some List Homework
-
+Veri yapıları listeler ile yapılan bazı sorular ve çözümler
 </summary>
 
   [note](https://github.com/edanursunay/womenintech_akademi_odev/blob/main/7-AboutSomeListHomework.ipynb)
@@ -63,7 +64,7 @@ Bugüne kadar yapılan ödevlerin olduğu repo'dur.
 <summary>
 
 ### 8_oop_ucus
-
+Nesneye yönelik programlama konusu altında class oluşturularak yapılan ödev.
 
 </summary>
 
@@ -76,7 +77,11 @@ Bugüne kadar yapılan ödevlerin olduğu repo'dur.
 <summary>
 
 ###  all_data
-
+İstnabul dataseti üzerinde çalışılarak yapılanlar:
+* Her satırda bir cümle olacak şekilde satırları düzenleyin
+* Duplicate veri barındırmayacak
+* Noktalama işaretleri kaldırılacak
+* Türkçe karakterler replace edilecek
 
 </summary>
 
