@@ -4,7 +4,7 @@ Bugüne kadar yapılan ödevlerin olduğu repo'dur.
 <details>
 <summary>
 
-### 1. Stars
+### Stars
 
 
 </summary>
@@ -16,7 +16,7 @@ Bugüne kadar yapılan ödevlerin olduğu repo'dur.
 <details>
 <summary>
 
-### 2. Guess Number
+###  Guess Number
 
 </summary>
 
@@ -27,7 +27,7 @@ Bugüne kadar yapılan ödevlerin olduğu repo'dur.
 <details>
 <summary>
 
-### 3. Computer Guess Number
+###  Computer Guess Number
 
 </summary>
   
@@ -39,7 +39,7 @@ Bugüne kadar yapılan ödevlerin olduğu repo'dur.
 <details>
 <summary>
 
-### 4. Rock Paper Scissors
+###  Rock Paper Scissors
 
 </summary>
 
@@ -50,7 +50,7 @@ Bugüne kadar yapılan ödevlerin olduğu repo'dur.
 <details>
 <summary>
 
-### 5. About Some List Homework
+### 7-About Some List Homework
 
 </summary>
 
@@ -62,7 +62,7 @@ Bugüne kadar yapılan ödevlerin olduğu repo'dur.
 <details>
 <summary>
 
-### 6. Oop Uçuş
+### 8_oop_ucus
 
 
 </summary>
@@ -75,7 +75,7 @@ Bugüne kadar yapılan ödevlerin olduğu repo'dur.
 <details>
 <summary>
 
-### 7. All Data
+###  all_data
 
 
 </summary>
